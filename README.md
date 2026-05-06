@@ -1,5 +1,5 @@
 # TenMiNaTor III
-TenMiNaTor III es la librería más potente y de uso avanzado de sistemas de entrenamiento Llms creadas hasta las fechas.
+TenMiNaTor III es la librería más potente y de uso avanzado de sistemas de entrenamiento Llms, de las creadas hasta las fechas.
 
 
 **Esta Libreria de Entrenamiento que sobrepasa las capacidades actuales, no es la indicada para inicios comunes de entrenamientos, solo se recomienda para usuarios avanzados que ya dominan  librerias generales TenMiNaTor**
