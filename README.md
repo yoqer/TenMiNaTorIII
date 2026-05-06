@@ -6,8 +6,8 @@ TenMiNaTor III es la librería más potente y de uso avanzado de sistemas de ent
 
 -No obstante para el entrenamiento en ordenadores limitados x32, y para dispositivos, para portabilidad, como movilidad, solo en esta versión TenMiNaTor III, podras hacer entrenamiento.  (Esta version especifica es el TenMiNaTor II)
 
--Pero encarecidamente se reitera comenzar validaciones y entrenamientos con la versión actualizada con el último modelo 
-del TenMiNaTor, actualmente el TenMiNaTor II de Segunda Generación, con multicuantizacion, o el TenMiNaTor I, de la Primera Generacion, de la versión 1, que no cuantiza excesivamente facilitando la continuidad.
+-Pero encarecidamente se reitera comenzar las validaciones y los entrenamientos con la versión actualizada con el último modelo 
+del TenMiNaTor, actualmente el TenMiNaTor II, Segunda Generación, con multicuantizacion, o el TenMiNaTor I, de la Primera Generacion, versión 1, que no cuantiza excesivamente facilitando la continuidad.
 
 -O alternativamente no cuantizar mas de lo requerido, aunque esto sea comúnmente indicado para versiones de Producción, por eso el Registro en AliAmalia facilita la continuidad con el uso de las librerías TenMiNaTor que estan indicadas y recomendadas para ello. 
 -No obstante para modelos grandes y para uso local, usar sin cuantizar puede ser inviable. 
