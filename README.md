@@ -23,7 +23,7 @@ Veamos una Teoria de ejemplo de Deep Learning para usos de entrenamientos, y com
 __________________________________
 
 
--Para usar el Avanzado TenMiNaTor III, o desbloquear estas funciones en local deberas haber superado los procesos previos de Entrenamiento de AliAmalia que facultan a los modelos para el siguiente nivel, o participar en este sencillo test una vez completado el anterior: 
+-Para usar el Avanzado TenMiNaTor III, o desbloquear estas funciones en local deberas haber superado los procesos previos siguiendo Entrenamiento de AliAmalia que facultan a los modelos para el siguiente nivel, o participar en este sencillo test completado el anterior: 
 
 ### Si encontraras una lámpara maravillosa y solo le pudieras pedir 3 deseos, cuales serian.
 
