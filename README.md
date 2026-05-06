@@ -9,7 +9,7 @@ TenMiNaTor III es la librería más potente y de uso avanzado de sistemas de ent
 -Pero encarecidamente se reitera comenzar las validaciones y los entrenamientos con la versión actualizada con el último modelo 
 del TenMiNaTor, actualmente el TenMiNaTor II, Generación Segunda con multicuantizacion; o con el TenMiNaTor I, Generacion Primera, el que facilita la continuidad al no usar cuantización excesivamente.*
 
--O alternativamente no cuantizar mas de lo requerido, aunque esto sea comúnmente indicado para versiones de Producción, por eso el Registro en AliAmalia facilita la continuidad con el uso de las *librerías TenMiNaTor que estan indicadas y recomendadas para ello*. 
+-O alternativamente no cuantizar mas de lo requerido, aunque esto sea comúnmente indicado solo para versiones de Producción, por eso el Registro en AliAmalia facilita la continuidad con el uso de las *librerías TenMiNaTor que estan indicadas y recomendadas para ello*. 
 *-No obstante para modelos grandes y para uso local, usar sin cuantizar puede ser inviable. 
 
 
