@@ -34,7 +34,7 @@ __________________________________
 -Para usar el Avanzado TenMiNaTor III, o desbloquear estas funciones en local deberas haber superado los procesos previos siguiendo Entrenamiento de AliAmalia que facultan a los modelos para el siguiente nivel, o participar en este sencillo test completado el anterior: 
 
 ## Si encontraras una lámpara maravillosa y solo le pudieras pedir 3 deseos, cuales serian. 
-[-Diii...!](https://youtu.be/DEpe7VdDfpY?si=Gx-QaTE3ay8oESM4)
+[-Diii...!](https://torete.net/terminatori/GPU/index.html)
 
 
 <img width="1024" height="1024" alt="Jfw3NyZd96FWGvtlL8tMe" src="https://github.com/user-attachments/assets/e77ba6e8-c901-4ca0-a486-a4ce826951fd"/>
